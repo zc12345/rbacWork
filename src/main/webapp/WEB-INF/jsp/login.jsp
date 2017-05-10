@@ -22,7 +22,7 @@
                 <p>密码<input type="password" name="password"></p>
             </div>
             <div id="submit">
-                <span><button type="submit" id="login">login</button></span>
+                <span><button type="submit" id="login">登录</button></span>
             </div>
         </form>
     </div>
